@@ -23,7 +23,7 @@
   <li>Business Process Improvement</li>
 <li>SAP QM/Production Implementation Consulting</li>
 <li>Planview Administration</li>
-<li>Project Management</li>
+<li>SAP Deployment coordination </li>
 
 </ul>
 
