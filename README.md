@@ -20,10 +20,11 @@
 <h3>Services</h3>
 
 <ul>
+  <li>Business Process Improvement</li>
 <li>SAP QM/Production Implementation Consulting</li>
 <li>Planview Administration</li>
 <li>Project Management</li>
-<li>Business Process Improvement</li>
+
 </ul>
 
 <h3>Contact</h3>
