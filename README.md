@@ -1,5 +1,5 @@
 # My Services
-<!DOCTYPE html>
+
 <html>
 <head>
 <I am System Process Consultant>System Process Consultant<I am System Process Consultant>
@@ -27,7 +27,7 @@
 
 <h3>Contact</h3>
 
-<p>Email: soroush.sabaghian@email.com</p>
+<p>Email: soroush.sabaghian@gmail.com</p>
 
 </body>
 </html>
