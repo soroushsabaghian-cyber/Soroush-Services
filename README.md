@@ -7,9 +7,7 @@
 
 <body>
 
-<h1>Soroush Sabaghian</h1>
 
-<h2>Technical Portfolio & System Lead</h2>
 
 <p>Welcome to my professional website.</p>
 
