@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Me</title>
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Home</a> |
+  <a href="experience.html">Experience</a> |
+  <a href="services.html">Services</a> |
+  <a href="portfolio.html">Portfolio</a> |
+  <a href="contact.html">Contact</a>
+</nav>
+
+<h1>About Me</h1>
+
+<p>
+I am a Technical Portfolio & System Lead with expertise in SAP, Planview,
+Project Portfolio Management, Business Process Improvement, and Business Analysis.
+I enjoy helping organizations improve efficiency through technology,
+governance, and process optimization.
+</p>
+
+</body>
+</html>
